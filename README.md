@@ -13,7 +13,8 @@ This is a E commerce admin dashboard website using Next.js, Typescript and Tailw
 To install the project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/divy@1607/next.git`
-2. Install dependencies: `npm install`
+2. Install dependencies: `npm install`, `npm install next-auth@beta`,
+3. If bcryptjs doesn't work got with: `npm install bcrypt` -> `npm uninstall bcryptjs`
 
 ## Usage
 
