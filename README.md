@@ -1,4 +1,4 @@
-# E Commerce app using Next.js
+# Account dashboard using Next.js (with authentication and CRUD applications)
 
 This is a E commerce admin dashboard website using Next.js, Typescript and Tailwind CSS.
 
@@ -26,3 +26,6 @@ To use the project, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you find a bug or want to suggest an improvement, please submit a pull request.
+
+## vercel link
+https://nextt-kappa.vercel.app/
